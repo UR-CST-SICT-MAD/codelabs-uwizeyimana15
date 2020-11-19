@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Hello Word</string>
+    <string name="app_name">Interactive UI</string>
+    <string name="interactive_ui">Interactive UI</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+    <string name="go_back">Go Back</string>
 </resources>
